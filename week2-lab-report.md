@@ -120,6 +120,10 @@ Several Hints:
     Use semicolons, you are able to call several commands at the same time. 
 3. You can use up-arrow on keyboard to recall previous commands that have been run.
 
+Here is a good example to look at:
+![](Example.png)
+
+
 
 
 
