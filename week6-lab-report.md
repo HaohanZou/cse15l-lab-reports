@@ -56,6 +56,7 @@ Editted file
 
 * Since we've learned using ";" to call multiple commands at the same time, so actually we could move folder and compile files inside the folder at the same time. 
 ![](Multiple-commands.png)
+![](continued.png)
 
 
 
