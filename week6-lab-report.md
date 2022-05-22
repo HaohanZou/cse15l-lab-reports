@@ -1,4 +1,4 @@
-# Week  Lab report
+# Week6  Lab report
 
 ## Streaming ssh Configuration
 * We first open .ssh/config file and add following codes into the file 
