@@ -7,7 +7,6 @@
 
 ## Testing for Snippet 1
 * Here's the code for Snippet 1:
-
 ![](Code-for-Snippet-1.png)
 
 * Here's the expected value of Snippet 1:
